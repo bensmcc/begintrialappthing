@@ -1,2 +1,0 @@
-# begintrialappthing
-Begin app
